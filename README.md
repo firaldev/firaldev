@@ -19,6 +19,7 @@
 | 🎓 **KursusAI** | Platform kursus AI + cloud hosting subdomain untuk portofolio siswa | [kursusai.web.id](https://kursusai.web.id) |
 | 🏘️ **Website Desa** | Portal desa Cipang Kiri Hulu — layanan surat, lapor kejadian, info desa | [cipangkirihulu.web.id](https://cipangkirihulu.web.id) |
 | 🏢 **Kantor AI** | Dashboard kantor virtual — 10 AI agent dalam 4 tim | [kantor.firaldev.my.id](https://kantor.firaldev.my.id) |
+| 🏢 **Kantor AI** | Dashboard kantor virtual — 10 AI agent dalam 4 tim | [kantor.firaldev.my.id](https://kantor.firaldev.my.id) |
 | 📊 **Case Tracker** | Sistem tracking praktikum intervensi sosial (Laravel) | — |
 | ✅ **Absensi Desa** | Aplikasi absensi pegawai desa dengan geofence + deteksi wajah | — |
 
